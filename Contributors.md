@@ -132,6 +132,7 @@
 - [Rabia Amin](https://github.com/RabiaAmin) : First step toward success
 - [CshardZ](https://github.com/CshardZ)
 - [Vansh]
+- [Karina] (https://github.com/karina-purswani) : First Open Source Contribution Kr diyaa guys!! All thanks to AI
 - [Newbie1223](https://github.com/newbie1223)
 - [Natnael Tewodors] (https://github.com/Natnael-Tewodros)
 - [Soujanya](https://github.com/Soujanya30-dev)
